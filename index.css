@@ -20,13 +20,19 @@ table{
     height: 400px;
     width: 300px;
     margin:20px;
+    
 }
 tr,td,th{
     padding: 5px;
     border: 2px solid black;
     border-collapse: collapse;
+    
 
 }
 th {
     background-color: rgb(70, 70, 211);
+    color: white;
+}
+body {
+    background-color: thistle;
 }
