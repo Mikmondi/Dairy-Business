@@ -20,6 +20,7 @@ table{
     height: 400px;
     width: 300px;
     margin:20px;
+    flex-direction: column;
     
 }
 tr,td,th{
@@ -35,7 +36,9 @@ th {
 }
 body {
     background-color: thistle;
+    display: flex;
 }
 span {
     color: red;
+    
 }
