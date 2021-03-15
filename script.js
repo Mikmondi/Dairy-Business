@@ -19,5 +19,6 @@ var shade3c = 3402
 var shade4c = shade3c * 45;
 var shade3d = 4004
 var shade4d = shade3d *45;
-
+console.log(shade4a + shade4b + shade4c + shade4d);
+weeklTotal = document.getElementById(weeklyTotal);
 }
