@@ -39,7 +39,8 @@ body {
     
 }
 span {
-    color: red;
+    color: solid red;
+    font-weight: 700;
     
 }
 #paragragh {
