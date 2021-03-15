@@ -1,0 +1,13 @@
+#header {
+    background-image: url("https://www.ciwf.com/media/7426460/dairy-cows-on-pasture.jpg?anchor=center&mode=crop&width=730&height=400&rnd=130969822010000000");
+    height: 300px;
+    background-size: contain;
+    text-align: center;
+    align-items: flex-end;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    font-size: xx-large;
+    color: blue;
+    border-radius: 5px;
+}
