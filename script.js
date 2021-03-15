@@ -49,3 +49,4 @@ var dec1 = 58156;
 var dec2 = dec1 * 45;
 console.log(jan2 + feb2 + mar2 + apr2 + may2 + jun2 + jul2 + aug2 + sep2 + oct2 + nov2 + dec2);
 }
+yearlyTotal = document.getElementById(yearlyTotal);
