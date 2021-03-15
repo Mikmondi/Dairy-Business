@@ -36,9 +36,15 @@ th {
 }
 body {
     background-color: thistle;
-    display: flex;
+    
 }
 span {
     color: red;
     
+}
+#paragragh {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: end;
+    flex-wrap: wrap;
 }
