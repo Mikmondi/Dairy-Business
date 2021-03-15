@@ -10,4 +10,23 @@
     font-size: xx-large;
     color: blue;
     border-radius: 5px;
+    background-color: rgb(7, 7, 7);
+    opacity: 0.8;
+}
+table{
+    padding: 5px;
+    border: 2px solid black;
+    border-collapse: collapse;
+    height: 400px;
+    width: 300px;
+    margin:20px;
+}
+tr,td,th{
+    padding: 5px;
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+th {
+    background-color: rgb(70, 70, 211);
 }
